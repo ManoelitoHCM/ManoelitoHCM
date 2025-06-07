@@ -26,7 +26,7 @@ Frontend em React / React Native + Backend com Spring Boot (Kotlin).
 
 - Busca por ida/volta ou cidades recomendadas
 - Geração de bilhetes PDF
-- Filtros por preço, escalas, companhia
+- Filtro por preço
 - Cache local com arquivos JSON e Redis
 - Integração com a API da Amadeus
 
